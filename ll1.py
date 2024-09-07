@@ -1,3 +1,7 @@
+# Assume that you have unsorted student data in single linked list. Data includes student
+# registration number, program and CGPA. Sort the nodes of single linked list based on
+# CGPA.
+
 class SingleList:
     class _node_:
         def __init__ (self,reg_num,program,cgpa):
