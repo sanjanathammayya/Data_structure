@@ -1,4 +1,19 @@
 #from dynamicQueue import dynamicQueue
+
+# 1. Design BST data structure and implement the following methods
+#     a. Check BST is empty
+#     b. Get count of nodes in BST
+#     c. Add node to BST
+#     d. Search node in BST
+#     e. Tree traversal
+#         i. In-order
+#         ii. Pre-order
+#         iii. Post-order
+#         iv. Level-order
+#     f. Delete specified node
+#     g. Find height of BST
+
+
 class BST:
     class _node_:
         def __init__(self,ele):
