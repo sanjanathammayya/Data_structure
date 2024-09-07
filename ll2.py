@@ -1,3 +1,5 @@
+# Assume that you have two unsorted student linked lists (one for each program). Merge
+# the nodes into one single list based on CGPA
 class SingleList:
     class _node_:
         def __init__ (self,reg_num,program,cgpa):
